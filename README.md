@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Chase Coleman @xXccoleXx
-- 👀 I’m interested in ... Java Software Development
-- 🌱 I’m currently learning ... Symmetric Encryption
-
+- 👀 I’m interested in ... Software Engineering
+- 🌱 I’m currently learning ... Web Development, C, and AWS
