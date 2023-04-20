@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Chase Coleman @xXccoleXx
-- 👀 I’m interested in ... Software Engineering
-- 🌱 I’m currently learning ... Web Development, C, and AWS
+- 👀 I’m interested in ... Software/Cloud Engineering
+- 🌱 I’m currently learning ... AWS
